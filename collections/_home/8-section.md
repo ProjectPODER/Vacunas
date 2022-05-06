@@ -1,5 +1,5 @@
 ---
-title: About the project
+title: Sobre el proyecto
 cta-button-section: false
 button:
   link: "https://projectpoder.github.io/"
@@ -20,12 +20,24 @@ text-color: "#333333"
 ---
 
 {:.text-center}
-## ABOUT THE PROJECT
+## SOBRE EL PROYECTO
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Quiénes somos
+Vacunas contra la captura corporativa es un proyecto de datos, investigación y periodismo de PODER para transparentar información sobre el proceso de autorización, adquisición y vacunación contra COVID-19. Hacer visible la captura corporativa durante la pandemia de COVID-19 es el objetivo principal del proyecto.
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Metodología
+Siguiendo la metodología desarrollada por PODER desde hace 12 años, inteligencia corporativa, seguir el dinero, análisis horizontal y vertical, análisis de datos y tecnología para la transparencia presentamos datos sobre 33 empresas farmacéuticas que tienen desarrollos vacunales contra COVID-19 con autorización de uso de emergencia en al menos 1 país. También documentamos la falta de transparencia del proceso de autorización, compra y acceso a las vacunas en México. se utilizan fuentes de información pública y privadas sobre las empresas farmacéuticas. Información pública sobre contratos, autorizaciones de uso de emergencia, ensayos clínicos y presupuesto para la estrategia nacional de vacunación en México obtenidas por la plataforma nacional de transparencia. Por último, los datos globales de proveedores, acuerdos de compra y desarrolladores han sido obtenidos gracias a la colaboración de UNICEF, actualizados al 04/03/2022 y se pueden encontrar en “UNICEF COVID-19 Vaccine Market Dashboard" en la siguiente liga https://www.unicef.org/supply/covid-19-vaccine-market-dashboard 
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Visualización y micrositio
+El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente para el monitoreo de grandes obras públicas como en TorreDeControl.org y https://saluddineroycorrupcion.quienesquien.wiki/es/salud.
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Créditos
+Investigación: Samantha Camacho, Diana Silva, Daniel Castrejón, María Julieta Lamberti
+Análisis de datos: Queletzú Aspra
+Cartografía: Samantha Camacho y Queletzú Aspra
+Desarrollo: Marisol Carrillo
+Diseño editorial e ilustración: Adrián Sánchez Martínez
+Redes sociales: Mariela Álvarez Alatriste
+Comunicación Externa: Miguel Soto
+Dirección del Proyecto: María Julieta Lamberti
+Codirección Ejecutiva: Elena Arengo y Fernanda Hopenhaym
