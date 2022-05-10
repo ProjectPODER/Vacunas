@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: graphic-example2.png
+image: GRAFICA2.png
 ---
 
 # LA INDUSTRIA FARMCÉUTICA ESTÁ CONCENTRADA
