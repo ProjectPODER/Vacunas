@@ -3,6 +3,6 @@ title: Slide 2
 image: graphic-example2.png
 ---
 
-# THIS IS THE SECOND SLIDE
+# LA INDUSTRIA FARMCÉUTICA ESTÁ CONCENTRADA
 
-Proin tempus vehicula nibh, et mollis erat consequat sit amet. Aliquam molestie, elit feugiat sagittis luctus, ex lorem ultrices elit, ac molestie orci elit eu nisi. Phasellus accumsan fringilla ligula, id vulputate lorem bibendum in. Fusce congue ullamcorper tempus. In metus velit, finibus et libero nec, tempus aliquam metus.
+Esta industria funciona prácticamente como un monopolio. Los 20 laboratorios más grandes a nivel mundial concentran el 60% de las ventas globales de la industria farmacéutica. Estas empresas tienen el poder para influenciar la política global de salud poniendo sus ganancias por sobre la vida de las personas.
