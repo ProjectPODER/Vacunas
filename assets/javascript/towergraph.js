@@ -1802,7 +1802,7 @@ function setupD3() {
                 return `
                       <p class="title">${projectTitle}</p>
                 <p>Número de contratos: <span>${contractsTotalText}</span></p>
-                <p>Importe contratado: <span>$${contractsAmountText}M</span></p>
+                <p>Dosis: <span>${contractsAmountText}M</span></p>
                 `; // FIXME esto debe ser parametrizable para cambiar el título del proyecto dentro del tooltip
                 break;
               }
@@ -1813,7 +1813,7 @@ function setupD3() {
                 return `
                       <p class="title">${d.name}</p>
                 <p>Número de contratos: <span>${contractsCountText}</span></p>
-                <p>Importe contratado: <span>$${contractsAmountText}</span></p>
+                <p>Dosis: <span>${contractsAmountText}</span></p>
                 `;
                 break;
               }
@@ -1825,7 +1825,7 @@ function setupD3() {
                       <p class="title">${d.name}</p>
                       <span>Proveedores:</span>
                 <ul> ${suppliersListHTML}</ul>
-                <p>Importe contratado: <span>$${amountText}</span></p>
+                <p>Dosis: <span>${amountText}</span></p>
                 `;
                 break;
               }
@@ -1837,7 +1837,7 @@ function setupD3() {
                 return `
                       <p class="title">${nameText}</p>
                 <p>Número de contratos: <span>${contractsCountText}</span></p>
-                <p>Importe contratado: <span>$${contractsAmount}</span></p>
+                <p>Dosis: <span>${contractsAmount}</span></p>
                 `;
                 break;
               }
@@ -1851,8 +1851,8 @@ function setupD3() {
                 return `
                       <p class="title">${nameText}</p>
                       <p>Contratos: ${contractsCount}</p>
-                      <p>${descriptionLink}:</p>
-                      <p><a rel="noreferrer noopener" target="_blank" href="https://quienesquien.wiki/${typeText}/${nameText}">https://quienesquien.wiki/${typeText}/${nameText}</a></p>
+
+
                 `;
                 break;
               }
