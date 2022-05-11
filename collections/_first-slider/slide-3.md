@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: graphic-example3.png
+image: GRAFICA3.jpg
 ---
 
 # LAS EMPRESAS GANAN CON LA PANDEMIA
