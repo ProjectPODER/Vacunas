@@ -1,6 +1,6 @@
 ---
 title: Slide 2
-image: GRAFICA2.png
+image: desigualdadvacunas.png
 ---
 
 # LA INDUSTRIA FARMACÉUTICA ESTÁ CONCENTRADA
