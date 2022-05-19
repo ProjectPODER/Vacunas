@@ -1,6 +1,6 @@
 ---
 title: Slide 3
-image: GRAFICA3.jpg
+image: accionesempresas.jpg
 ---
 
 # LAS EMPRESAS GANAN CON LA PANDEMIA
