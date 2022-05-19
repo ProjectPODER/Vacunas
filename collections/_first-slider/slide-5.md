@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: RED BR VACUNAS.png
+image: REDINVERSIONISTAS.png
 ---
 
 # QUIENES GANAN CON LAS VACUNAS
