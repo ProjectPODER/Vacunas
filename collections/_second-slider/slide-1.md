@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: graphic-example1.png
+image: astrazeneca.png
 ---
 
 # La ruta de la vacuna de AstraZeneca
