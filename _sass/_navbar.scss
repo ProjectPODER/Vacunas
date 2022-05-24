@@ -12,3 +12,11 @@
     border-bottom: 2px solid;
     border-color: $primary;
 }
+
+.navbar-dark {
+    background-color: #75BA4A !important;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #ffffff;
+}
