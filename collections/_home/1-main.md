@@ -18,7 +18,7 @@ La industria farmacéutica global y en México ha utilizado diferentes mecanismo
 
 [Industria Farmacéutica](https://projectpoder.github.io/Vacunas/slider/)
 [Ruta de las vacunas]
-[Quienes ganan]
+[Quienes ganan](https://projectpoder.github.io/Vacunas/visualization/#slide-1)
 [Billonarios de vacunas]
 
 
