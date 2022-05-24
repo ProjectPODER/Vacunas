@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tower Builder
+title: Vacunas
 
 # Logo image
-image: tb-logo.png
+image:
 
 #Description of your site
 description: >-
@@ -38,7 +38,7 @@ bods_url: "/assets/data/owners.csv"
 
 graph:
   # The name of your graphic
-  - title: "Graphic name"
+  - title: "261M DE DOSIS"
   # los tamaños minimos y maximos de los nodos (en pixeles, aproximativo)
   - sizes:
     - min: 10
