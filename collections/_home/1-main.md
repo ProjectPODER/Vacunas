@@ -13,11 +13,13 @@ media-left: false
 
 
 ---
-# VACUNAS CONTRA LA CAPTURA CORPORATIVA
+# Los billones de las vacunas
+La industria farmacéutica global y en México ha utilizado diferentes mecanismos para influenciar la toma de decisiones sobre la pandemia. Las empresas ganan a costa de la vida y la salud. Te mostramos quiénes son y como han aumentado sus ingresos las empresas que producen vacunas contra COVID-19
 
-TowerBuilder is a system to generate websites with data visualizations that mix open contracting and beneficial ownership data, all without requiring programming knowledge.
-
-[Documentation](https://towerbuilder.readthedocs.io/en/latest/index.html)
+[Industria Farmacéutica](https://projectpoder.github.io/Vacunas/slider/)
+[Ruta de las vacunas]
+[Quienes ganan](https://projectpoder.github.io/Vacunas/visualization/#slide-1)
+[Billonarios de vacunas]
 
 
 
