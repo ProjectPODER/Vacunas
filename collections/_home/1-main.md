@@ -18,7 +18,7 @@ La industria farmacéutica global y en México ha utilizado diferentes mecanismo
 
 [Industria Farmacéutica](https://projectpoder.github.io/Vacunas/slider/)
 [Ruta de las vacuna$](https://projectpoder.github.io/Vacunas/slider-2/)
-[Dosi$ de Opacidad](https://projectpoder.github.io/Vacunas/visualization/#slide-1)
+[Dosis de Opacidad](https://projectpoder.github.io/Vacunas/visualization/#slide-1)
 [Billone$ de vacunas](https://projectpoder.github.io/Vacunas/posts/)
 
 
