@@ -1,435 +1,435 @@
 NOMBRE,TIPO_ENTIDAD,RELACIONADO_CON,TIPO_RELACION,PUESTO
-AstraZeneca UK Limited,Empresa,,,
-AstraZeneca PLC,Empresa,AstraZeneca UK Limited,parent,
-Serum Institute of India,Empresa,,,
-Poonawalla Investments & Industries Pvt. Ltd.,Empresa,Serum Institute of India,parent,
-Pfizer Export B.V.,Empresa,,,
-Pfizer Inc.,Empresa,Pfizer Export B.V.,parent,
-Pfizer Inc.,Empresa,BioNtech,partner,
-CanSino Biologics Inc.,Empresa,,,
-CanSino Biologics Inc.,Empresa,Drugmex,partner,
-Centro Nacional Gamaleya de Epidemiología y Microbiología,Gobierno,,,
-Centro Nacional Gamaleya de Epidemiología y Microbiología,Gobierno,Fondo Ruso de Inversión Directa,partner,
-Sinovac Life Science Co. LTD,Empresa,,,
-Sinovac Biotech Ltd.,Empresa,Sinovac Life Science Co. LTD,parent,
-Moderna,Empresa,,,
-Janssen Pharmaceutica,Empresa,,,
-Johnson & Johnson,Empresa,Janssen Pharmaceutica,parent,
-Gavi Alliance,Empresa,,,
-BlackRock Inc.,Empresa,AstraZeneca PLC,shareholder,
-Capital Research and Management Company,Empresa,AstraZeneca PLC,shareholder,
-Wellington Management Group LLP,Empresa,AstraZeneca PLC,shareholder,
-"The Vanguard Group, Inc.",Empresa,AstraZeneca PLC,shareholder,
-Investor AB (publ),Empresa,AstraZeneca PLC,shareholder,
-T. Rowe Price Group Inc.,Empresa,AstraZeneca PLC,shareholder,
-Norges Bank Investment Management,Gobierno,AstraZeneca PLC,shareholder,
-Legal & General Investment Management Ltd.,Empresa,AstraZeneca PLC,shareholder,
-State Street Global Advisors Inc.,Empresa,AstraZeneca PLC,shareholder,
-GQG Partners LLC,Empresa,AstraZeneca PLC,shareholder,
-PRIMECAP Management Company,Empresa,AstraZeneca PLC,shareholder,
-FMR LLC,Empresa,AstraZeneca PLC,shareholder,
-UBS Asset Management AG,Empresa,AstraZeneca PLC,shareholder,
-ABRDN PLC,Empresa,AstraZeneca PLC,shareholder,
-Columbia Management Investment Advisers LLC,Empresa,AstraZeneca PLC,shareholder,
-Schroder Investment Management Ltd.,Empresa,AstraZeneca PLC,shareholder,
-TIAA,Empresa,AstraZeneca PLC,shareholder,
-HSBC Global Asset Management (UK) Ltd.,Empresa,AstraZeneca PLC,shareholder,
-BNY Asset Management,Empresa,AstraZeneca PLC,shareholder,
-Ignis Investment Services Ltd.,Empresa,AstraZeneca PLC,shareholder,
-Royal London Asset Management Ltd.,Empresa,AstraZeneca PLC,shareholder,
-Amundi Asset Management SAS,Empresa,AstraZeneca PLC,shareholder,
-Aviva Investors Global Services Ltd.,Empresa,AstraZeneca PLC,shareholder,
-Janus Henderson Group PLC,Empresa,AstraZeneca PLC,shareholder,
-Northern Trust Global Investments,Empresa,AstraZeneca PLC,shareholder,
-Franklin Resources Inc.,Empresa,AstraZeneca PLC,shareholder,
-Fisher Asset Management LLC,Empresa,AstraZeneca PLC,shareholder,
-M&G Investment Management Ltd.,Empresa,AstraZeneca PLC,shareholder,
-JP Morgan Asset Management,Empresa,AstraZeneca PLC,shareholder,
-Invesco Ltd.,Empresa,AstraZeneca PLC,shareholder,
-American Century Investment Management Inc,Empresa,AstraZeneca PLC,shareholder,
-Fidelity International Ltd.,Empresa,AstraZeneca PLC,shareholder,
-SAFE Investment Co. Ltd.,Empresa,AstraZeneca PLC,shareholder,
-Kuwait Investment Authority,Empresa,AstraZeneca PLC,shareholder,
-Schroder Investment Management North America Inc.,Empresa,AstraZeneca PLC,shareholder,
-Rathbone Investment Management Ltd.,Empresa,AstraZeneca PLC,shareholder,
-Société Générale SA,Empresa,AstraZeneca PLC,shareholder,
-Putnam LLC,Empresa,AstraZeneca PLC,shareholder,
-Dimensional Fund Advisors L.P.,Empresa,AstraZeneca PLC,shareholder,
-Geode Capital Management LLC,Empresa,AstraZeneca PLC,shareholder,
-"The Vanguard Group, Inc.",Empresa,Pfizer Inc.,shareholder,
-BlackRock Inc.,Empresa,Pfizer Inc.,shareholder,
-State Street Global Advisors Inc.,Empresa,Pfizer Inc.,shareholder,
-Capital Research and Management Company,Empresa,Pfizer Inc.,shareholder,
-Wellington Management Group LLP,Empresa,Pfizer Inc.,shareholder,
-Geode Capital Management LLC,Empresa,Pfizer Inc.,shareholder,
-Northern Trust Global Investments,Empresa,Pfizer Inc.,shareholder,
-Norges Bank Investment Management,Gobierno,Pfizer Inc.,shareholder,
-BNY Mellon Asset Management,Empresa,Pfizer Inc.,shareholder,
-State Farm Mutual Automobile Insurance Co.,Empresa,Pfizer Inc.,shareholder,
-Charles Schwab Investment Management Inc.,Empresa,Pfizer Inc.,shareholder,
-Morgan Stanley,Empresa,Pfizer Inc.,shareholder,
-T. Rowe Price Group Inc.,Empresa,Pfizer Inc.,shareholder,
-Franklin Resources Inc.,Empresa,Pfizer Inc.,shareholder,
-UBS Asset Management AG,Empresa,Pfizer Inc.,shareholder,
-Dimensional Fund Advisors L.P.,Empresa,Pfizer Inc.,shareholder,
-Legal & General Investment Management Ltd.,Empresa,Pfizer Inc.,shareholder,
-"MFS Investment Management, Inc.",Empresa,Pfizer Inc.,shareholder,
-Deutsche Asset & Wealth Management,Empresa,Pfizer Inc.,shareholder,
-Eaton Vance Management,Empresa,Pfizer Inc.,shareholder,
-TIAA,Empresa,Pfizer Inc.,shareholder,
-AT Impf GmbH,Empresa,BioNtech,shareholder,
-"Sahin M.D., Ugur",Persona,BioNtech,shareholder,
-Baillie Gifford & Co,Empresa,BioNtech,shareholder,
-PRIMECAP Management Company,Empresa,BioNtech,shareholder,
-Jennison Associates LLC,Empresa,BioNtech,shareholder,
-Capital Research and Management Company,Empresa,BioNtech,shareholder,
-"Huber, Christoph Hubert",Persona,BioNtech,shareholder,
-J O Hambro Capital Management Ltd.,Empresa,BioNtech,shareholder,
-Salvia GmbH,Empresa,BioNtech,shareholder,
-FMR LLC,Empresa,BioNtech,shareholder,
-Shanghai Fosun Pharmaceutical (Group) Co. Ltd.,Gobierno,BioNtech,shareholder,
-BlackRock Inc.,Empresa,BioNtech,shareholder,
-T. Rowe Price Group Inc.,Empresa,BioNtech,shareholder,
-Coatue Management LLC,Empresa,BioNtech,shareholder,
-Sean Marett,Persona,BioNtech,shareholder,
-Susquehanna International Group LLP,Empresa,BioNtech,shareholder,
-Tofino Gmbh,Empresa,BioNtech,shareholder,
-MIG Verwaltungs AG,Empresa,BioNtech,shareholder,
-"Poetting Ph.D., Sierk",Persona,BioNtech,shareholder,
-Universal Investment GmbH,Empresa,BioNtech,shareholder,
-Allianz Asset Management GmbH,Empresa,CanSino Biologics Inc.,shareholder,
-Amundi Asset Management SAS,Empresa,CanSino Biologics Inc.,shareholder,
-BlackRock Inc.,Empresa,CanSino Biologics Inc.,shareholder,
-Caisse de dépôt et placement du Québec,Empresa,CanSino Biologics Inc.,shareholder,
-Candriam Luxembourg S.C.A.,Empresa,CanSino Biologics Inc.,shareholder,
-Capital Research & Mgmt Co.,Empresa,CanSino Biologics Inc.,shareholder,
-China Asset Management Co. Ltd.,Empresa,CanSino Biologics Inc.,shareholder,
-China Construction Bank Corporation,Empresa,CanSino Biologics Inc.,shareholder,
-"China Merchants Bank Co., Ltd",Empresa,CanSino Biologics Inc.,shareholder,
-Citigroup Inc.,Empresa,CanSino Biologics Inc.,shareholder,
-Dongxu Qiu,Persona,CanSino Biologics Inc.,shareholder,
-E Fund Management Co. Ltd.,Empresa,CanSino Biologics Inc.,shareholder,
-Eli Lilly Investment Consulting (Shanghai) Co. Ltd.,Empresa,CanSino Biologics Inc.,shareholder,
-Fullgoal Fund Management Co. Ltd.,Empresa,CanSino Biologics Inc.,shareholder,
-Future Industry Investment Fund,Empresa,CanSino Biologics Inc.,shareholder,
-Ge SUN,Empresa,CanSino Biologics Inc.,shareholder,
-Geode Capital Management LLC,Empresa,CanSino Biologics Inc.,shareholder,
-Helen Huihua MAO,Persona,CanSino Biologics Inc.,shareholder,
-HKSCC NOMINEES LIMITED,Empresa,CanSino Biologics Inc.,shareholder,
-Hong Kong Securities Clearing Company Limited,Empresa,CanSino Biologics Inc.,shareholder,
-Hongde Fund Management Co. Ltd.,Empresa,CanSino Biologics Inc.,shareholder,
-Huihua Mao,Persona,CanSino Biologics Inc.,shareholder,
-Industrial and Commercial Bank of China,Empresa,CanSino Biologics Inc.,shareholder,
-Jianfa LIU,Persona,CanSino Biologics Inc.,shareholder,
-JPMorgan Chase & Co.,Empresa,CanSino Biologics Inc.,shareholder,
-Neuberger Berman BD LLC,Empresa,CanSino Biologics Inc.,shareholder,
-Norges Bank Investment Management,Empresa,CanSino Biologics Inc.,shareholder,
-Qm29 Ltd.,Empresa,CanSino Biologics Inc.,shareholder,
-SDIC Innovation Investment Management Co. Ltd.,Empresa,CanSino Biologics Inc.,shareholder,
-Shanghai Li’an Venture Capital Investment Center,Empresa,CanSino Biologics Inc.,shareholder,
-Shanghai Liyi Investment Management Partnership,Empresa,CanSino Biologics Inc.,shareholder,
-"Shanghai Puyao Xinye Investment Management Co., Ltd.",Empresa,CanSino Biologics Inc.,shareholder,
-Shanghai Xinji Venture Capital Investment Co. Ltd.,Empresa,CanSino Biologics Inc.,shareholder,
-Shenzhen Dachen Caizhi Venture Capital Management Co. Ltd.,Empresa,CanSino Biologics Inc.,shareholder,
-Suzhou Huyanglin Venture Capital Center,Empresa,CanSino Biologics Inc.,shareholder,
-Suzhou Litai Venture Capital Investment Center,Empresa,CanSino Biologics Inc.,shareholder,
-Suzhou Qiming Rongxin Equity Investment Partnership,Empresa,CanSino Biologics Inc.,shareholder,
-Suzhou Qiyuan Equity Investment Management Partnership Enterprise,Empresa,CanSino Biologics Inc.,shareholder,
-Tao Zhu,Persona,CanSino Biologics Inc.,shareholder,
-Tianjin Qianrui Enterprise Management Partnership,Empresa,CanSino Biologics Inc.,shareholder,
-Tianjin Qianyi Enterprise Management Partnership,Empresa,CanSino Biologics Inc.,shareholder,
-Tianjin QIanzhi Enterprise Mgmt Partnership Enterprise,Empresa,CanSino Biologics Inc.,shareholder,
-Tobam SAS,Empresa,CanSino Biologics Inc.,shareholder,
-Vanguard Group Inc.,Empresa,CanSino Biologics Inc.,shareholder,
-Xuefeng Yu,Persona,CanSino Biologics Inc.,shareholder,
-Yinhua Fund Management Co. Ltd.,Empresa,CanSino Biologics Inc.,shareholder,
-Julio Anibal Scardigli Irazabal,Persona,Drugmex,shareholder,
-Claudia Beatriz Pérez ,Persona,Drugmex,shareholder,
-Alejo Julio Scardigli ,Persona,Drugmex,shareholder,
-Martina Claudia Scardigli,Persona,Drugmex,shareholder,
-Federación Rusa,Gobierno,Fondo Ruso de Inversión Directa,shareholder,
-SAIF Partners IV,Empresa,Sinovac Biotech Ltd.,shareholder,
-Yin Weidong,Persona,Sinovac Biotech Ltd.,shareholder,
-"Vivo Capital, LLC",Empresa,Sinovac Biotech Ltd.,shareholder,
-"Prime Success, L.P.",Empresa,Sinovac Biotech Ltd.,shareholder,
-CDH Utopia Limited,Empresa,Sinovac Biotech Ltd.,shareholder,
-1Globe Capital LLC,Empresa,Sinovac Biotech Ltd.,shareholder,
-Yuk Lam Lo,Persona,Sinovac Biotech Ltd.,shareholder,
-Simon Anderson,Persona,Sinovac Biotech Ltd.,shareholder,
-Kenneth Lee,Persona,Sinovac Biotech Ltd.,shareholder,
-Meng Mei,Persona,Sinovac Biotech Ltd.,shareholder,
-Nan Wang,Persona,Sinovac Biotech Ltd.,shareholder,
-Ming Xia,Persona,Sinovac Biotech Ltd.,shareholder,
-Xiaomei Yin,Persona,Sinovac Biotech Ltd.,shareholder,
-Qiang Gao,Persona,Sinovac Biotech Ltd.,shareholder,
-Jing Li,Persona,Sinovac Biotech Ltd.,shareholder,
-Baillie Gifford & Co,Empresa,Moderna,shareholder,
-BlackRock Inc.,Empresa,Moderna,shareholder,
-"The Vanguard Group, Inc.",Empresa,Moderna,shareholder,
-Flagship Pioneering,Empresa,Moderna,shareholder,
-State Street Global Advisors Inc.,Empresa,Moderna,shareholder,
-Stephane Bancel,Persona,Moderna,shareholder,
-Robert S. Langer Jr.,Persona,Moderna,shareholder,
-Ocha Llc,Empresa,Moderna,shareholder,
-Geode Capital Management LLC,Empresa,Moderna,shareholder,
-Theleme Partners LLP,Empresa,Moderna,shareholder,
-Coatue Management LLC,Empresa,Moderna,shareholder,
-Morgan Stanley,Empresa,Moderna,shareholder,
-FMR LLC,Empresa,Moderna,shareholder,
-Northern Trust Global Investments,Empresa,Moderna,shareholder,
-Banque Pictet & Cie SA,Empresa,Moderna,shareholder,
-Barclays PLC,Gobierno,Moderna,shareholder,
-BNY Asset Management,Empresa,Moderna,shareholder,
-T. Rowe Price Group Inc.,Empresa,Moderna,shareholder,
-Norges Bank Investment Management,Empresa,Moderna,shareholder,
-Noubar B. Afeyan,Persona,Moderna,shareholder,
-"The Vanguard Group, Inc.",Empresa,Johnson & Johnson,shareholder,
-BlackRock Inc.,Empresa,Johnson & Johnson,shareholder,
-State Street Corporation,Empresa,Johnson & Johnson,shareholder,
-Geode Capital Management LLC,Empresa,Johnson & Johnson,shareholder,
-Northern Trust Global Investments,Empresa,Johnson & Johnson,shareholder,
-Wellington Management Group LLP,Empresa,Johnson & Johnson,shareholder,
-State Farm Mutual Automobile Insurance Co.,Empresa,Johnson & Johnson,shareholder,
-Capital Research & Mgmt Co.,Empresa,Johnson & Johnson,shareholder,
-Norges Bank Investment Management,Empresa,Johnson & Johnson,shareholder,
-Massachusetts Financial Services Company,Empresa,Johnson & Johnson,shareholder,
-BNY Asset Management,Empresa,Johnson & Johnson,shareholder,
-Morgan Stanley,Empresa,Johnson & Johnson,shareholder,
-UBS Asset Management AG,Empresa,Johnson & Johnson,shareholder,
-Columbia Management Investment Advisers LLC,Empresa,Johnson & Johnson,shareholder,
-Wells Fargo & Co.,Empresa,Johnson & Johnson,shareholder,
-JP Morgan Asset Management,Empresa,Johnson & Johnson,shareholder,
-Legal & General Investment Management Ltd.,Empresa,Johnson & Johnson,shareholder,
-Charles Schwab Investment Management Inc.,Empresa,Johnson & Johnson,shareholder,
-Eaton Vance Management,Empresa,Johnson & Johnson,shareholder,
-Deutsche Asset & Wealth Management,Empresa,Johnson & Johnson,shareholder,
-Franklin Resources Inc.,Empresa,Johnson & Johnson,shareholder,
-T. Rowe Price Group Inc.,Empresa,Johnson & Johnson,shareholder,
-"Robert Wood Johnson Foundation, Endowment Fund ",Empresa,Johnson & Johnson,shareholder,
-California Public Employees' Retirement System,Empresa,Johnson & Johnson,shareholder,
-Dimensional Fund Advisors L.P.,Empresa,Johnson & Johnson,shareholder,
-TIAA,Empresa,Johnson & Johnson,shareholder,
-JPMorgan Chase & Co.,Empresa,Johnson & Johnson,shareholder,
-Nordea Investment Management AB,Empresa,Johnson & Johnson,shareholder,
-Managed Account Advisors LLC,Empresa,Johnson & Johnson,shareholder,
-Schweizerische Nationalbank,Empresa,Johnson & Johnson,shareholder,
-Alex Gorsky,Persona,Johnson & Johnson,shareholder,
-Joaquin Duato,Persona,Johnson & Johnson,shareholder,
-Paulus Stoffels,Persona,Johnson & Johnson,shareholder,
-Jennifer A. Taubert,Persona,Johnson & Johnson,shareholder,
-Joseph J. Wolk,Persona,Johnson & Johnson,shareholder,
-Charles Prince,Persona,Johnson & Johnson,shareholder,
-Ronald A. Williams,Persona,Johnson & Johnson,shareholder,
-A. Eugene Washington,Persona,Johnson & Johnson,shareholder,
-Anne M. Mulcahy,Persona,Johnson & Johnson,shareholder,
-Mark B. McClellan,Persona,Johnson & Johnson,shareholder,
-D. Scott Davis,Persona,Johnson & Johnson,shareholder,
-Mary C. Beckerle,Persona,Johnson & Johnson,shareholder,
-Hubert Joly,Persona,Johnson & Johnson,shareholder,
-Marillyn A. Hewson,Persona,Johnson & Johnson,shareholder,
-Mark A. Weinberger,Persona,Johnson & Johnson,shareholder,
-Nadja Y. West,Persona,Johnson & Johnson,shareholder,
-Darius Adamczyc,Persona,Johnson & Johnson,shareholder,
-Austria,Gobierno,Gavi Alliance,shareholder,
-Bahrein,Gobierno,Gavi Alliance,shareholder,
-Bélgica,Gobierno,Gavi Alliance,shareholder,
-Canadá,Gobierno,Gavi Alliance,shareholder,
-China,Gobierno,Gavi Alliance,shareholder,
-Colombia,Gobierno,Gavi Alliance,shareholder,
-Croacia,Gobierno,Gavi Alliance,shareholder,
-Dinamarca,Gobierno,Gavi Alliance,shareholder,
-Comisión Europea,Gobierno,Gavi Alliance,shareholder,
-Finlandia,Gobierno,Gavi Alliance,shareholder,
-Francia,Gobierno,Gavi Alliance,shareholder,
-Alemania,Gobierno,Gavi Alliance,shareholder,
-Grecia,Gobierno,Gavi Alliance,shareholder,
-Islandia,Gobierno,Gavi Alliance,shareholder,
-Irlanda,Gobierno,Gavi Alliance,shareholder,
-Italia,Gobierno,Gavi Alliance,shareholder,
-Japón,Gobierno,Gavi Alliance,shareholder,
-Reino de Arabia Saudí,Gobierno,Gavi Alliance,shareholder,
-Kuwait,Gobierno,Gavi Alliance,shareholder,
-Liechtenstein,Gobierno,Gavi Alliance,shareholder,
-Luxemburgo,Gobierno,Gavi Alliance,shareholder,
-Países Bajos,Gobierno,Gavi Alliance,shareholder,
-Nueva Zelanda,Gobierno,Gavi Alliance,shareholder,
-Noruega,Gobierno,Gavi Alliance,shareholder,
-Omán,Gobierno,Gavi Alliance,shareholder,
-Filipinas,Gobierno,Gavi Alliance,shareholder,
-Polonia,Gobierno,Gavi Alliance,shareholder,
-Portugal,Gobierno,Gavi Alliance,shareholder,
-Qatar,Gobierno,Gavi Alliance,shareholder,
-República de Corea,Gobierno,Gavi Alliance,shareholder,
-Singapur,Gobierno,Gavi Alliance,shareholder,
-Eslovenia,Gobierno,Gavi Alliance,shareholder,
-España,Gobierno,Gavi Alliance,shareholder,
-Suecia,Gobierno,Gavi Alliance,shareholder,
-Suiza,Gobierno,Gavi Alliance,shareholder,
-Reino Unido,Gobierno,Gavi Alliance,shareholder,
-Estados Unidos de América,Gobierno,Gavi Alliance,shareholder,
-Vietnam,Gobierno,Gavi Alliance,shareholder,
-Analog Devices Foundation,Empresa,Gavi Alliance,shareholder,
-Asia Philanthropy Circle,Empresa,Gavi Alliance,shareholder,
-Bill & Melinda Gates Foundation,Empresa,Gavi Alliance,shareholder,
-Charities Trust,Empresa,Gavi Alliance,shareholder,
-Cisco,Empresa,Gavi Alliance,shareholder,
-Coca-Cola Foundation,Empresa,Gavi Alliance,shareholder,
-Gamers without Borders,Empresa,Gavi Alliance,shareholder,
-Gates Philanthropies Partners,Empresa,Gavi Alliance,shareholder,
-Google.org,Empresa,Gavi Alliance,shareholder,
-KS Relief,Empresa,Gavi Alliance,shareholder,
-Mastercard,Empresa,Gavi Alliance,shareholder,
-Portuguese Private Sector,Empresa,Gavi Alliance,shareholder,
-Procter & Gamble,Empresa,Gavi Alliance,shareholder,
-Reed Hastings and Patty Quillin,Empresa,Gavi Alliance,shareholder,
-Salesforce,Empresa,Gavi Alliance,shareholder,
-Seadream Family Foundation,Empresa,Gavi Alliance,shareholder,
-Shell,Empresa,Gavi Alliance,shareholder,
-Spotify,Empresa,Gavi Alliance,shareholder,
-Stanley Black & Decker,Empresa,Gavi Alliance,shareholder,
-Thistledown Foundation,Empresa,Gavi Alliance,shareholder,
-TikTok,Empresa,Gavi Alliance,shareholder,
-Toyota Tsusho,Empresa,Gavi Alliance,shareholder,
-Twilio,Empresa,Gavi Alliance,shareholder,
-UBS Optimus Foundation,Empresa,Gavi Alliance,shareholder,
-Vaccine Forward Initiative,Empresa,Gavi Alliance,shareholder,
-Visa Foundation,Empresa,Gavi Alliance,shareholder,
-WHO Foundation-Go Give One Campaign,Empresa,Gavi Alliance,shareholder,
-Leif Johansson,Persona,AstraZeneca PLC,Boardmember,Presidente del Consejo de administración
-Philip Arthur John Broadley,Persona,AstraZeneca PLC,Boardmember,Director del Consejo de Administración
-Euan A. Ashley,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Michel Demare,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Deborah DiSanzo Eldracher,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Diana Layfield,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Sherilyn McCoy,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Tony Mok,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Nazneen Rahman,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Andreas Rummelt,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Aradhana Sarin,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Pascal Soriot,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Marcus Wallenberg,Persona,AstraZeneca PLC,Boardmember,Consejo de Administración
-Pascal Soriot,Persona,AstraZeneca PLC,Boardmember,CEO (Director General)
-Aradhana Sarin,Persona,AstraZeneca PLC,Boardmember,CFO (Director Financiero)
-Cyrus S. Poonawalla,Persona,Poonawalla Investments & Industries Pvt. Ltd.,Boardmember,Director del Consejo de Administración
-Firdaus Jal Dastoor,Persona,Poonawalla Investments & Industries Pvt. Ltd.,Boardmember,Consejo de Administración
-Adar Cyrus Poonawalla,Persona,Poonawalla Investments & Industries Pvt. Ltd.,Boardmember,Consejo de Administración
-Zavaray S. Poonawalla,Persona,Poonawalla Investments & Industries Pvt. Ltd.,Boardmember,Consejo de Administración
-Adar Cyrus Poonawalla,Persona,Poonawalla Investments & Industries Pvt. Ltd.,Boardmember,CEO (Director General)
-Albert Bourla,Persona,Pfizer Inc.,Boardmember,Director del Consejo de Administración
-Ronald E. Blaylock,Persona,Pfizer Inc.,Boardmember,Consejo de Administración
-Susan Desmond-Hellmann,Persona,Pfizer Inc.,Boardmember,Consejo de Administración
-Joseph J. Echevarria,Persona,Pfizer Inc.,Boardmember,Consejo de Administración
-Suzanne Nora Johnson,Persona,Pfizer Inc.,Boardmember,Consejo de Administración
-Susan Hockfield,Persona,Pfizer Inc.,Boardmember,Consejo de Administración
-Dan R. Littman,Persona,Pfizer Inc.,Boardmember,Consejo de Administración
-Shantanu Narayen,Persona,Pfizer Inc.,Boardmember,Consejo de Administración
-James Quincey,Persona,Pfizer Inc.,Boardmember,Consejo de Administración
-Albert Bourla,Persona,Pfizer Inc.,Boardmember,CEO (Director General)
-Frank A. D'Amelio ,Persona,Pfizer Inc.,Boardmember,CFO (Director Financiero)
-"Sahin M.D., Ugur",Persona,BioNtech,Boardmember,Consejo de Administración
-"Poetting Ph.D., Sierk",Persona,BioNtech,Boardmember,Consejo de Administración
-Sean Marett,Persona,BioNtech,Boardmember,Consejo de Administración
-"Sahin M.D., Ugur",Persona,BioNtech,Boardmember,CEO (Director General)
-Jens Holstein,Persona,BioNtech,Boardmember,CFO (Director Financiero)
-Xuefeng YU,Persona,"CanSino Biologies, Inc.",Boardmember,Director del Consejo de Administración
-Shou Bai CHAO,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Tao ZHU,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Dongxu QIU,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Jing WANG,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Liang LIN,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Nisa Bernice Wing-Yu LEUNG,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Zhi XIAO,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Shiu Kwan Danny WAI,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Zhu XIN,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Shuifa GUI,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Jianzhong LIU,Persona,"CanSino Biologies, Inc.",Boardmember,Consejo de Administración
-Xuefeng YU,Persona,"CanSino Biologies, Inc.",Boardmember,CEO (Director General)
-Jing WANG,Persona,"CanSino Biologies, Inc.",Boardmember,CFO (Director Financiero)
-Julio Anibal Scardigli Irazabal,Persona,Drugmex,Boardmember,Director del Consejo de Administración
-Guy Jean León Savoir García,Persona,Drugmex,Boardmember,Consejo de Administración
-Óscar Daniel Andrés Grasso,Persona,Drugmex,Boardmember,Consejo de Administración
-Alexander Leonidovich Gintsburg,Persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,Boardmember,Consejo de Administración
-Alexander Alexandrovich Khovaev,Persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,Boardmember,Consejo de Administración
-Alexander Vasilievich Pronin,Persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,Boardmember,Consejo de Administración
-Denis Yurievich Logunov,Persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,Boardmember,Consejo de Administración
-Sergei Borisovich Cheknev,Persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,Boardmember,Consejo de Administración
-Tatyana Vladimirovna Domogarova,Persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,Boardmember,Consejo de Administración
-Georgy Stepanovich Prokhorov,Persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,Boardmember,Consejo de Administración
-Lyudmila Kondratievna Kozhevnikova,Persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,Boardmember,Consejo de Administración
-Alexander Leonidovich Gintsburg,Persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,Boardmember,CEO (Director General)
-Kirill Dmitriev,Persona,Fondo Ruso de Inversión Directa,Boardmember,Director del Consejo de Administración
-Anatoly Braverman,Persona,Fondo Ruso de Inversión Directa,Boardmember,Consejo de Administración
-Tatiana Plaksina,Persona,Fondo Ruso de Inversión Directa,Boardmember,Consejo de Administración
-Tagir Sitdekov,Persona,Fondo Ruso de Inversión Directa,Boardmember,Consejo de Administración
-Vladimir Primak,Persona,Fondo Ruso de Inversión Directa,Boardmember,Consejo de Administración
-Ilya Bakhturin,Persona,Fondo Ruso de Inversión Directa,Boardmember,Consejo de Administración
-Ekaterina Kuznetsova,Persona,Fondo Ruso de Inversión Directa,Boardmember,Consejo de Administración
-Kirill Dmitriev,Persona,Fondo Ruso de Inversión Directa,Boardmember,CEO (Director General)
-Ekaterina Kuznetsova,Persona,Fondo Ruso de Inversión Directa,Boardmember,CFO (Director Financiero)
-Yin Weidong,Persona,Sinovac Biotech Ltd.,Boardmember,Director del Consejo de Administración
-Wang Nan,Persona,Sinovac Biotech Ltd.,Boardmember,Consejo de Administración
-Anderson Simon,Persona,Sinovac Biotech Ltd.,Boardmember,Consejo de Administración
-Lam Yuk,Persona,Sinovac Biotech Ltd.,Boardmember,Consejo de Administración
-Lee Kenneth,Persona,Sinovac Biotech Ltd.,Boardmember,Consejo de Administración
-Mei Meng,Persona,Sinovac Biotech Ltd.,Boardmember,Consejo de Administración
-Fu Shan,Persona,Sinovac Biotech Ltd.,Boardmember,Consejo de Administración
-Yin Weidong,Persona,Sinovac Biotech Ltd.,Boardmember,CEO (Director General)
-Wang Nan,Persona,Sinovac Biotech Ltd.,Boardmember,CFO (Director Financiero)
-Stephane Bancel,Persona,Moderna,Boardmember,Director del Consejo de Administración
-Noubar B. Afeyan,Persona,Moderna,Boardmember,Consejo de Administración
-Stephen Berenson,Persona,Moderna,Boardmember,Consejo de Administración
-Sandra Horning,Persona,Moderna,Boardmember,Consejo de Administración
-Robert S. Langer Jr.,Persona,Moderna,Boardmember,Consejo de Administración
-Elizabeth G. Nabel,Persona,Moderna,Boardmember,Consejo de Administración
-Francois Nader,Persona,Moderna,Boardmember,Consejo de Administración
-Paul L. Sagan,Persona,Moderna,Boardmember,Consejo de Administración
-Elizabeth Tallett,Persona,Moderna,Boardmember,Consejo de Administración
-Henri Termeer,Persona,Moderna,Boardmember,Consejo de Administración
-Stephen Hoge,Persona,Moderna,Boardmember,Presidente Ejecutivo
-Stephane Bancel,Persona,Moderna,Boardmember,CEO (Director General)
-David W. Meline,Persona,Moderna,Boardmember,CFO (Director Financiero)
-Alex Gorsky,Persona,Johnson & Johnson,Boardmember,Director del Consejo de Administración
-Darius Adamczyc,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Mary C. Beckerle,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-D. Scott Davis,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Ian E. L. Davis,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Joaquin Duato,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Jennifer A. Doudna,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Marillyn A. Hewson,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Hubert Joly,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Mark B. McClellan,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Anne M. Mulcahy,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-A. Eugene Washington,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Mark A. Weinberger,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Nadja Y. West,Persona,Johnson & Johnson,Boardmember,Consejo de Administración
-Joaquin Duato,Persona,Johnson & Johnson,Boardmember,CEO (Director General)
-Joseph J. Wolk,Persona,Johnson & Johnson,Boardmember,CFO (Director Financiero)
-José Manuel Barroso ,Persona,Gavi Alliance,Boardmember,Director del Consejo de Administración
-Seth Berkley ,Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Margaret (Peggy) Hamburg,Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Helen Rees ,Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Teresa Ressel ,Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Yibing Wu,Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Afsaneh Beschloss,Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Awa Marie Coll Seck,Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Naguib Kheraj,Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Anne Schuchat,Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Violaine Mitchell (Bill & Melinda Gates Foundation),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Juan Pablo Uribe (World Bank),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Omar Abdi (UNICEF),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Zsuzanna Jakab (World Health Organization),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Kwaku Agyeman-Manu (Paises de aplicación - Ghana & Ethiopia),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Mansukh Mandaviya (Paises de aplicación – India & Lao PDR),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Faisal Sultan (Paises de aplicación -Pakistan & Somalia),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Anahit Avanesyan (Paises de aplicación – Armenia & Honduras),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Charlemagne Marie Ragnag-Néwendé Ouedraogo (Paises de aplicación – Burkina Faso & Angola),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Bernhard Braune (Germany/ France/ Lux/ EC/ Ireland),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Megan Cain (Canada/ Italy/ New Zealand/ Spain / Switzerland),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-John Arne Røttingen (Norway/ Finland/ Netherlands/ Sweden),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Beth Arthy (United Kingdom/ Qatar),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Sarah Goulding (United States/ Australia/ Japan/ Korea (Rep. of) / Vice Chair),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Roger Connor (Vaccine industry - Industrialised),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Mahima Datla (Vaccine industry - Developing),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Rafael Vilasanjuan (CSOs),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Marta Nunes (Research & technical health institute),Persona,Gavi Alliance,Boardmember,Consejo de Administración
-Seth Berkley ,Persona,Gavi Alliance,Boardmember,CEO (Director General)
+AstraZeneca UK Limited,empresa,,,
+AstraZeneca PLC,empresa,AstraZeneca UK Limited,parent,
+Serum Institute of India,empresa,,,
+Poonawalla Investments & Industries Pvt. Ltd.,empresa,Serum Institute of India,parent,
+Pfizer Export B.V.,empresa,,,
+Pfizer Inc.,empresa,Pfizer Export B.V.,parent,
+Pfizer Inc.,empresa,BioNtech,partner,
+CanSino Biologics Inc.,empresa,,,
+CanSino Biologics Inc.,empresa,Drugmex,partner,
+Centro Nacional Gamaleya de Epidemiología y Microbiología,gobierno,,,
+Centro Nacional Gamaleya de Epidemiología y Microbiología,gobierno,Fondo Ruso de Inversión Directa,partner,
+Sinovac Life Science Co. LTD,empresa,,,
+Sinovac Biotech Ltd.,empresa,Sinovac Life Science Co. LTD,parent,
+Moderna,empresa,,,
+Janssen Pharmaceutica,empresa,,,
+Johnson & Johnson,empresa,Janssen Pharmaceutica,parent,
+Gavi Alliance,empresa,,,
+BlackRock Inc.,empresa,AstraZeneca PLC,shareholder,
+Capital Research and Management Company,empresa,AstraZeneca PLC,shareholder,
+Wellington Management Group LLP,empresa,AstraZeneca PLC,shareholder,
+"The Vanguard Group, Inc.",empresa,AstraZeneca PLC,shareholder,
+Investor AB (publ),empresa,AstraZeneca PLC,shareholder,
+T. Rowe Price Group Inc.,empresa,AstraZeneca PLC,shareholder,
+Norges Bank Investment Management,gobierno,AstraZeneca PLC,shareholder,
+Legal & General Investment Management Ltd.,empresa,AstraZeneca PLC,shareholder,
+State Street Global Advisors Inc.,empresa,AstraZeneca PLC,shareholder,
+GQG Partners LLC,empresa,AstraZeneca PLC,shareholder,
+PRIMECAP Management Company,empresa,AstraZeneca PLC,shareholder,
+FMR LLC,empresa,AstraZeneca PLC,shareholder,
+UBS Asset Management AG,empresa,AstraZeneca PLC,shareholder,
+ABRDN PLC,empresa,AstraZeneca PLC,shareholder,
+Columbia Management Investment Advisers LLC,empresa,AstraZeneca PLC,shareholder,
+Schroder Investment Management Ltd.,empresa,AstraZeneca PLC,shareholder,
+TIAA,empresa,AstraZeneca PLC,shareholder,
+HSBC Global Asset Management (UK) Ltd.,empresa,AstraZeneca PLC,shareholder,
+BNY Asset Management,empresa,AstraZeneca PLC,shareholder,
+Ignis Investment Services Ltd.,empresa,AstraZeneca PLC,shareholder,
+Royal London Asset Management Ltd.,empresa,AstraZeneca PLC,shareholder,
+Amundi Asset Management SAS,empresa,AstraZeneca PLC,shareholder,
+Aviva Investors Global Services Ltd.,empresa,AstraZeneca PLC,shareholder,
+Janus Henderson Group PLC,empresa,AstraZeneca PLC,shareholder,
+Northern Trust Global Investments,empresa,AstraZeneca PLC,shareholder,
+Franklin Resources Inc.,empresa,AstraZeneca PLC,shareholder,
+Fisher Asset Management LLC,empresa,AstraZeneca PLC,shareholder,
+M&G Investment Management Ltd.,empresa,AstraZeneca PLC,shareholder,
+JP Morgan Asset Management,empresa,AstraZeneca PLC,shareholder,
+Invesco Ltd.,empresa,AstraZeneca PLC,shareholder,
+American Century Investment Management Inc,empresa,AstraZeneca PLC,shareholder,
+Fidelity International Ltd.,empresa,AstraZeneca PLC,shareholder,
+SAFE Investment Co. Ltd.,empresa,AstraZeneca PLC,shareholder,
+Kuwait Investment Authority,empresa,AstraZeneca PLC,shareholder,
+Schroder Investment Management North America Inc.,empresa,AstraZeneca PLC,shareholder,
+Rathbone Investment Management Ltd.,empresa,AstraZeneca PLC,shareholder,
+Société Générale SA,empresa,AstraZeneca PLC,shareholder,
+Putnam LLC,empresa,AstraZeneca PLC,shareholder,
+Dimensional Fund Advisors L.P.,empresa,AstraZeneca PLC,shareholder,
+Geode Capital Management LLC,empresa,AstraZeneca PLC,shareholder,
+"The Vanguard Group, Inc.",empresa,Pfizer Inc.,shareholder,
+BlackRock Inc.,empresa,Pfizer Inc.,shareholder,
+State Street Global Advisors Inc.,empresa,Pfizer Inc.,shareholder,
+Capital Research and Management Company,empresa,Pfizer Inc.,shareholder,
+Wellington Management Group LLP,empresa,Pfizer Inc.,shareholder,
+Geode Capital Management LLC,empresa,Pfizer Inc.,shareholder,
+Northern Trust Global Investments,empresa,Pfizer Inc.,shareholder,
+Norges Bank Investment Management,gobierno,Pfizer Inc.,shareholder,
+BNY Mellon Asset Management,empresa,Pfizer Inc.,shareholder,
+State Farm Mutual Automobile Insurance Co.,empresa,Pfizer Inc.,shareholder,
+Charles Schwab Investment Management Inc.,empresa,Pfizer Inc.,shareholder,
+Morgan Stanley,empresa,Pfizer Inc.,shareholder,
+T. Rowe Price Group Inc.,empresa,Pfizer Inc.,shareholder,
+Franklin Resources Inc.,empresa,Pfizer Inc.,shareholder,
+UBS Asset Management AG,empresa,Pfizer Inc.,shareholder,
+Dimensional Fund Advisors L.P.,empresa,Pfizer Inc.,shareholder,
+Legal & General Investment Management Ltd.,empresa,Pfizer Inc.,shareholder,
+"MFS Investment Management, Inc.",empresa,Pfizer Inc.,shareholder,
+Deutsche Asset & Wealth Management,empresa,Pfizer Inc.,shareholder,
+Eaton Vance Management,empresa,Pfizer Inc.,shareholder,
+TIAA,empresa,Pfizer Inc.,shareholder,
+AT Impf GmbH,empresa,BioNtech,shareholder,
+"Sahin M.D., Ugur",persona,BioNtech,shareholder,
+Baillie Gifford & Co,empresa,BioNtech,shareholder,
+PRIMECAP Management Company,empresa,BioNtech,shareholder,
+Jennison Associates LLC,empresa,BioNtech,shareholder,
+Capital Research and Management Company,empresa,BioNtech,shareholder,
+"Huber, Christoph Hubert",persona,BioNtech,shareholder,
+J O Hambro Capital Management Ltd.,empresa,BioNtech,shareholder,
+Salvia GmbH,empresa,BioNtech,shareholder,
+FMR LLC,empresa,BioNtech,shareholder,
+Shanghai Fosun Pharmaceutical (Group) Co. Ltd.,gobierno,BioNtech,shareholder,
+BlackRock Inc.,empresa,BioNtech,shareholder,
+T. Rowe Price Group Inc.,empresa,BioNtech,shareholder,
+Coatue Management LLC,empresa,BioNtech,shareholder,
+Sean Marett,persona,BioNtech,shareholder,
+Susquehanna International Group LLP,empresa,BioNtech,shareholder,
+Tofino Gmbh,empresa,BioNtech,shareholder,
+MIG Verwaltungs AG,empresa,BioNtech,shareholder,
+"Poetting Ph.D., Sierk",persona,BioNtech,shareholder,
+Universal Investment GmbH,empresa,BioNtech,shareholder,
+Allianz Asset Management GmbH,empresa,CanSino Biologics Inc.,shareholder,
+Amundi Asset Management SAS,empresa,CanSino Biologics Inc.,shareholder,
+BlackRock Inc.,empresa,CanSino Biologics Inc.,shareholder,
+Caisse de dépôt et placement du Québec,empresa,CanSino Biologics Inc.,shareholder,
+Candriam Luxembourg S.C.A.,empresa,CanSino Biologics Inc.,shareholder,
+Capital Research & Mgmt Co.,empresa,CanSino Biologics Inc.,shareholder,
+China Asset Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder,
+China Construction Bank Corporation,empresa,CanSino Biologics Inc.,shareholder,
+"China Merchants Bank Co., Ltd",empresa,CanSino Biologics Inc.,shareholder,
+Citigroup Inc.,empresa,CanSino Biologics Inc.,shareholder,
+Dongxu Qiu,persona,CanSino Biologics Inc.,shareholder,
+E Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder,
+Eli Lilly Investment Consulting (Shanghai) Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder,
+Fullgoal Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder,
+Future Industry Investment Fund,empresa,CanSino Biologics Inc.,shareholder,
+Ge SUN,empresa,CanSino Biologics Inc.,shareholder,
+Geode Capital Management LLC,empresa,CanSino Biologics Inc.,shareholder,
+Helen Huihua MAO,persona,CanSino Biologics Inc.,shareholder,
+HKSCC NOMINEES LIMITED,empresa,CanSino Biologics Inc.,shareholder,
+Hong Kong Securities Clearing Company Limited,empresa,CanSino Biologics Inc.,shareholder,
+Hongde Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder,
+Huihua Mao,persona,CanSino Biologics Inc.,shareholder,
+Industrial and Commercial Bank of China,empresa,CanSino Biologics Inc.,shareholder,
+Jianfa LIU,persona,CanSino Biologics Inc.,shareholder,
+JPMorgan Chase & Co.,empresa,CanSino Biologics Inc.,shareholder,
+Neuberger Berman BD LLC,empresa,CanSino Biologics Inc.,shareholder,
+Norges Bank Investment Management,empresa,CanSino Biologics Inc.,shareholder,
+Qm29 Ltd.,empresa,CanSino Biologics Inc.,shareholder,
+SDIC Innovation Investment Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder,
+Shanghai Li’an Venture Capital Investment Center,empresa,CanSino Biologics Inc.,shareholder,
+Shanghai Liyi Investment Management Partnership,empresa,CanSino Biologics Inc.,shareholder,
+"Shanghai Puyao Xinye Investment Management Co., Ltd.",empresa,CanSino Biologics Inc.,shareholder,
+Shanghai Xinji Venture Capital Investment Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder,
+Shenzhen Dachen Caizhi Venture Capital Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder,
+Suzhou Huyanglin Venture Capital Center,empresa,CanSino Biologics Inc.,shareholder,
+Suzhou Litai Venture Capital Investment Center,empresa,CanSino Biologics Inc.,shareholder,
+Suzhou Qiming Rongxin Equity Investment Partnership,empresa,CanSino Biologics Inc.,shareholder,
+Suzhou Qiyuan Equity Investment Management Partnership Enterprise,empresa,CanSino Biologics Inc.,shareholder,
+Tao Zhu,persona,CanSino Biologics Inc.,shareholder,
+Tianjin Qianrui Enterprise Management Partnership,empresa,CanSino Biologics Inc.,shareholder,
+Tianjin Qianyi Enterprise Management Partnership,empresa,CanSino Biologics Inc.,shareholder,
+Tianjin QIanzhi Enterprise Mgmt Partnership Enterprise,empresa,CanSino Biologics Inc.,shareholder,
+Tobam SAS,empresa,CanSino Biologics Inc.,shareholder,
+Vanguard Group Inc.,empresa,CanSino Biologics Inc.,shareholder,
+Xuefeng Yu,persona,CanSino Biologics Inc.,shareholder,
+Yinhua Fund Management Co. Ltd.,empresa,CanSino Biologics Inc.,shareholder,
+Julio Anibal Scardigli Irazabal,persona,Drugmex,shareholder,
+Claudia Beatriz Pérez ,persona,Drugmex,shareholder,
+Alejo Julio Scardigli ,persona,Drugmex,shareholder,
+Martina Claudia Scardigli,persona,Drugmex,shareholder,
+Federación Rusa,gobierno,Fondo Ruso de Inversión Directa,shareholder,
+SAIF Partners IV,empresa,Sinovac Biotech Ltd.,shareholder,
+Yin Weidong,persona,Sinovac Biotech Ltd.,shareholder,
+"Vivo Capital, LLC",empresa,Sinovac Biotech Ltd.,shareholder,
+"Prime Success, L.P.",empresa,Sinovac Biotech Ltd.,shareholder,
+CDH Utopia Limited,empresa,Sinovac Biotech Ltd.,shareholder,
+1Globe Capital LLC,empresa,Sinovac Biotech Ltd.,shareholder,
+Yuk Lam Lo,persona,Sinovac Biotech Ltd.,shareholder,
+Simon Anderson,persona,Sinovac Biotech Ltd.,shareholder,
+Kenneth Lee,persona,Sinovac Biotech Ltd.,shareholder,
+Meng Mei,persona,Sinovac Biotech Ltd.,shareholder,
+Nan Wang,persona,Sinovac Biotech Ltd.,shareholder,
+Ming Xia,persona,Sinovac Biotech Ltd.,shareholder,
+Xiaomei Yin,persona,Sinovac Biotech Ltd.,shareholder,
+Qiang Gao,persona,Sinovac Biotech Ltd.,shareholder,
+Jing Li,persona,Sinovac Biotech Ltd.,shareholder,
+Baillie Gifford & Co,empresa,Moderna,shareholder,
+BlackRock Inc.,empresa,Moderna,shareholder,
+"The Vanguard Group, Inc.",empresa,Moderna,shareholder,
+Flagship Pioneering,empresa,Moderna,shareholder,
+State Street Global Advisors Inc.,empresa,Moderna,shareholder,
+Stephane Bancel,persona,Moderna,shareholder,
+Robert S. Langer Jr.,persona,Moderna,shareholder,
+Ocha Llc,empresa,Moderna,shareholder,
+Geode Capital Management LLC,empresa,Moderna,shareholder,
+Theleme Partners LLP,empresa,Moderna,shareholder,
+Coatue Management LLC,empresa,Moderna,shareholder,
+Morgan Stanley,empresa,Moderna,shareholder,
+FMR LLC,empresa,Moderna,shareholder,
+Northern Trust Global Investments,empresa,Moderna,shareholder,
+Banque Pictet & Cie SA,empresa,Moderna,shareholder,
+Barclays PLC,gobierno,Moderna,shareholder,
+BNY Asset Management,empresa,Moderna,shareholder,
+T. Rowe Price Group Inc.,empresa,Moderna,shareholder,
+Norges Bank Investment Management,empresa,Moderna,shareholder,
+Noubar B. Afeyan,persona,Moderna,shareholder,
+"The Vanguard Group, Inc.",empresa,Johnson & Johnson,shareholder,
+BlackRock Inc.,empresa,Johnson & Johnson,shareholder,
+State Street Corporation,empresa,Johnson & Johnson,shareholder,
+Geode Capital Management LLC,empresa,Johnson & Johnson,shareholder,
+Northern Trust Global Investments,empresa,Johnson & Johnson,shareholder,
+Wellington Management Group LLP,empresa,Johnson & Johnson,shareholder,
+State Farm Mutual Automobile Insurance Co.,empresa,Johnson & Johnson,shareholder,
+Capital Research & Mgmt Co.,empresa,Johnson & Johnson,shareholder,
+Norges Bank Investment Management,empresa,Johnson & Johnson,shareholder,
+Massachusetts Financial Services Company,empresa,Johnson & Johnson,shareholder,
+BNY Asset Management,empresa,Johnson & Johnson,shareholder,
+Morgan Stanley,empresa,Johnson & Johnson,shareholder,
+UBS Asset Management AG,empresa,Johnson & Johnson,shareholder,
+Columbia Management Investment Advisers LLC,empresa,Johnson & Johnson,shareholder,
+Wells Fargo & Co.,empresa,Johnson & Johnson,shareholder,
+JP Morgan Asset Management,empresa,Johnson & Johnson,shareholder,
+Legal & General Investment Management Ltd.,empresa,Johnson & Johnson,shareholder,
+Charles Schwab Investment Management Inc.,empresa,Johnson & Johnson,shareholder,
+Eaton Vance Management,empresa,Johnson & Johnson,shareholder,
+Deutsche Asset & Wealth Management,empresa,Johnson & Johnson,shareholder,
+Franklin Resources Inc.,empresa,Johnson & Johnson,shareholder,
+T. Rowe Price Group Inc.,empresa,Johnson & Johnson,shareholder,
+"Robert Wood Johnson Foundation, Endowment Fund ",empresa,Johnson & Johnson,shareholder,
+California Public Employees' Retirement System,empresa,Johnson & Johnson,shareholder,
+Dimensional Fund Advisors L.P.,empresa,Johnson & Johnson,shareholder,
+TIAA,empresa,Johnson & Johnson,shareholder,
+JPMorgan Chase & Co.,empresa,Johnson & Johnson,shareholder,
+Nordea Investment Management AB,empresa,Johnson & Johnson,shareholder,
+Managed Account Advisors LLC,empresa,Johnson & Johnson,shareholder,
+Schweizerische Nationalbank,empresa,Johnson & Johnson,shareholder,
+Alex Gorsky,persona,Johnson & Johnson,shareholder,
+Joaquin Duato,persona,Johnson & Johnson,shareholder,
+Paulus Stoffels,persona,Johnson & Johnson,shareholder,
+Jennifer A. Taubert,persona,Johnson & Johnson,shareholder,
+Joseph J. Wolk,persona,Johnson & Johnson,shareholder,
+Charles Prince,persona,Johnson & Johnson,shareholder,
+Ronald A. Williams,persona,Johnson & Johnson,shareholder,
+A. Eugene Washington,persona,Johnson & Johnson,shareholder,
+Anne M. Mulcahy,persona,Johnson & Johnson,shareholder,
+Mark B. McClellan,persona,Johnson & Johnson,shareholder,
+D. Scott Davis,persona,Johnson & Johnson,shareholder,
+Mary C. Beckerle,persona,Johnson & Johnson,shareholder,
+Hubert Joly,persona,Johnson & Johnson,shareholder,
+Marillyn A. Hewson,persona,Johnson & Johnson,shareholder,
+Mark A. Weinberger,persona,Johnson & Johnson,shareholder,
+Nadja Y. West,persona,Johnson & Johnson,shareholder,
+Darius Adamczyc,persona,Johnson & Johnson,shareholder,
+Austria,gobierno,Gavi Alliance,shareholder,
+Bahrein,gobierno,Gavi Alliance,shareholder,
+Bélgica,gobierno,Gavi Alliance,shareholder,
+Canadá,gobierno,Gavi Alliance,shareholder,
+China,gobierno,Gavi Alliance,shareholder,
+Colombia,gobierno,Gavi Alliance,shareholder,
+Croacia,gobierno,Gavi Alliance,shareholder,
+Dinamarca,gobierno,Gavi Alliance,shareholder,
+Comisión Europea,gobierno,Gavi Alliance,shareholder,
+Finlandia,gobierno,Gavi Alliance,shareholder,
+Francia,gobierno,Gavi Alliance,shareholder,
+Alemania,gobierno,Gavi Alliance,shareholder,
+Grecia,gobierno,Gavi Alliance,shareholder,
+Islandia,gobierno,Gavi Alliance,shareholder,
+Irlanda,gobierno,Gavi Alliance,shareholder,
+Italia,gobierno,Gavi Alliance,shareholder,
+Japón,gobierno,Gavi Alliance,shareholder,
+Reino de Arabia Saudí,gobierno,Gavi Alliance,shareholder,
+Kuwait,gobierno,Gavi Alliance,shareholder,
+Liechtenstein,gobierno,Gavi Alliance,shareholder,
+Luxemburgo,gobierno,Gavi Alliance,shareholder,
+Países Bajos,gobierno,Gavi Alliance,shareholder,
+Nueva Zelanda,gobierno,Gavi Alliance,shareholder,
+Noruega,gobierno,Gavi Alliance,shareholder,
+Omán,gobierno,Gavi Alliance,shareholder,
+Filipinas,gobierno,Gavi Alliance,shareholder,
+Polonia,gobierno,Gavi Alliance,shareholder,
+Portugal,gobierno,Gavi Alliance,shareholder,
+Qatar,gobierno,Gavi Alliance,shareholder,
+República de Corea,gobierno,Gavi Alliance,shareholder,
+Singapur,gobierno,Gavi Alliance,shareholder,
+Eslovenia,gobierno,Gavi Alliance,shareholder,
+España,gobierno,Gavi Alliance,shareholder,
+Suecia,gobierno,Gavi Alliance,shareholder,
+Suiza,gobierno,Gavi Alliance,shareholder,
+Reino Unido,gobierno,Gavi Alliance,shareholder,
+Estados Unidos de América,gobierno,Gavi Alliance,shareholder,
+Vietnam,gobierno,Gavi Alliance,shareholder,
+Analog Devices Foundation,empresa,Gavi Alliance,shareholder,
+Asia Philanthropy Circle,empresa,Gavi Alliance,shareholder,
+Bill & Melinda Gates Foundation,empresa,Gavi Alliance,shareholder,
+Charities Trust,empresa,Gavi Alliance,shareholder,
+Cisco,empresa,Gavi Alliance,shareholder,
+Coca-Cola Foundation,empresa,Gavi Alliance,shareholder,
+Gamers without Borders,empresa,Gavi Alliance,shareholder,
+Gates Philanthropies Partners,empresa,Gavi Alliance,shareholder,
+Google.org,empresa,Gavi Alliance,shareholder,
+KS Relief,empresa,Gavi Alliance,shareholder,
+Mastercard,empresa,Gavi Alliance,shareholder,
+Portuguese Private Sector,empresa,Gavi Alliance,shareholder,
+Procter & Gamble,empresa,Gavi Alliance,shareholder,
+Reed Hastings and Patty Quillin,empresa,Gavi Alliance,shareholder,
+Salesforce,empresa,Gavi Alliance,shareholder,
+Seadream Family Foundation,empresa,Gavi Alliance,shareholder,
+Shell,empresa,Gavi Alliance,shareholder,
+Spotify,empresa,Gavi Alliance,shareholder,
+Stanley Black & Decker,empresa,Gavi Alliance,shareholder,
+Thistledown Foundation,empresa,Gavi Alliance,shareholder,
+TikTok,empresa,Gavi Alliance,shareholder,
+Toyota Tsusho,empresa,Gavi Alliance,shareholder,
+Twilio,empresa,Gavi Alliance,shareholder,
+UBS Optimus Foundation,empresa,Gavi Alliance,shareholder,
+Vaccine Forward Initiative,empresa,Gavi Alliance,shareholder,
+Visa Foundation,empresa,Gavi Alliance,shareholder,
+WHO Foundation-Go Give One Campaign,empresa,Gavi Alliance,shareholder,
+Leif Johansson,persona,AstraZeneca PLC,boardmember,Presidente del Consejo de administración
+Philip Arthur John Broadley,persona,AstraZeneca PLC,boardmember,Director del Consejo de Administración
+Euan A. Ashley,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Michel Demare,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Deborah DiSanzo Eldracher,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Diana Layfield,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Sherilyn McCoy,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Tony Mok,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Nazneen Rahman,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Andreas Rummelt,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Aradhana Sarin,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Pascal Soriot,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Marcus Wallenberg,persona,AstraZeneca PLC,boardmember,Consejo de Administración
+Pascal Soriot,persona,AstraZeneca PLC,boardmember,CEO (Director General)
+Aradhana Sarin,persona,AstraZeneca PLC,boardmember,CFO (Director Financiero)
+Cyrus S. Poonawalla,persona,Poonawalla Investments & Industries Pvt. Ltd.,boardmember,Director del Consejo de Administración
+Firdaus Jal Dastoor,persona,Poonawalla Investments & Industries Pvt. Ltd.,boardmember,Consejo de Administración
+Adar Cyrus Poonawalla,persona,Poonawalla Investments & Industries Pvt. Ltd.,boardmember,Consejo de Administración
+Zavaray S. Poonawalla,persona,Poonawalla Investments & Industries Pvt. Ltd.,boardmember,Consejo de Administración
+Adar Cyrus Poonawalla,persona,Poonawalla Investments & Industries Pvt. Ltd.,boardmember,CEO (Director General)
+Albert Bourla,persona,Pfizer Inc.,boardmember,Director del Consejo de Administración
+Ronald E. Blaylock,persona,Pfizer Inc.,boardmember,Consejo de Administración
+Susan Desmond-Hellmann,persona,Pfizer Inc.,boardmember,Consejo de Administración
+Joseph J. Echevarria,persona,Pfizer Inc.,boardmember,Consejo de Administración
+Suzanne Nora Johnson,persona,Pfizer Inc.,boardmember,Consejo de Administración
+Susan Hockfield,persona,Pfizer Inc.,boardmember,Consejo de Administración
+Dan R. Littman,persona,Pfizer Inc.,boardmember,Consejo de Administración
+Shantanu Narayen,persona,Pfizer Inc.,boardmember,Consejo de Administración
+James Quincey,persona,Pfizer Inc.,boardmember,Consejo de Administración
+Albert Bourla,persona,Pfizer Inc.,boardmember,CEO (Director General)
+Frank A. D'Amelio ,persona,Pfizer Inc.,boardmember,CFO (Director Financiero)
+"Sahin M.D., Ugur",persona,BioNtech,boardmember,Consejo de Administración
+"Poetting Ph.D., Sierk",persona,BioNtech,boardmember,Consejo de Administración
+Sean Marett,persona,BioNtech,boardmember,Consejo de Administración
+"Sahin M.D., Ugur",persona,BioNtech,boardmember,CEO (Director General)
+Jens Holstein,persona,BioNtech,boardmember,CFO (Director Financiero)
+Xuefeng YU,persona,"CanSino Biologies, Inc.",boardmember,Director del Consejo de Administración
+Shou Bai CHAO,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Tao ZHU,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Dongxu QIU,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Jing WANG,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Liang LIN,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Nisa Bernice Wing-Yu LEUNG,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Zhi XIAO,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Shiu Kwan Danny WAI,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Zhu XIN,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Shuifa GUI,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Jianzhong LIU,persona,"CanSino Biologies, Inc.",boardmember,Consejo de Administración
+Xuefeng YU,persona,"CanSino Biologies, Inc.",boardmember,CEO (Director General)
+Jing WANG,persona,"CanSino Biologies, Inc.",boardmember,CFO (Director Financiero)
+Julio Anibal Scardigli Irazabal,persona,Drugmex,boardmember,Director del Consejo de Administración
+Guy Jean León Savoir García,persona,Drugmex,boardmember,Consejo de Administración
+Óscar Daniel Andrés Grasso,persona,Drugmex,boardmember,Consejo de Administración
+Alexander Leonidovich Gintsburg,persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,boardmember,Consejo de Administración
+Alexander Alexandrovich Khovaev,persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,boardmember,Consejo de Administración
+Alexander Vasilievich Pronin,persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,boardmember,Consejo de Administración
+Denis Yurievich Logunov,persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,boardmember,Consejo de Administración
+Sergei Borisovich Cheknev,persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,boardmember,Consejo de Administración
+Tatyana Vladimirovna Domogarova,persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,boardmember,Consejo de Administración
+Georgy Stepanovich Prokhorov,persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,boardmember,Consejo de Administración
+Lyudmila Kondratievna Kozhevnikova,persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,boardmember,Consejo de Administración
+Alexander Leonidovich Gintsburg,persona,Centro Nacional Gamaleya de Epidemiología y Microbiología,boardmember,CEO (Director General)
+Kirill Dmitriev,persona,Fondo Ruso de Inversión Directa,boardmember,Director del Consejo de Administración
+Anatoly Braverman,persona,Fondo Ruso de Inversión Directa,boardmember,Consejo de Administración
+Tatiana Plaksina,persona,Fondo Ruso de Inversión Directa,boardmember,Consejo de Administración
+Tagir Sitdekov,persona,Fondo Ruso de Inversión Directa,boardmember,Consejo de Administración
+Vladimir Primak,persona,Fondo Ruso de Inversión Directa,boardmember,Consejo de Administración
+Ilya Bakhturin,persona,Fondo Ruso de Inversión Directa,boardmember,Consejo de Administración
+Ekaterina Kuznetsova,persona,Fondo Ruso de Inversión Directa,boardmember,Consejo de Administración
+Kirill Dmitriev,persona,Fondo Ruso de Inversión Directa,boardmember,CEO (Director General)
+Ekaterina Kuznetsova,persona,Fondo Ruso de Inversión Directa,boardmember,CFO (Director Financiero)
+Yin Weidong,persona,Sinovac Biotech Ltd.,boardmember,Director del Consejo de Administración
+Wang Nan,persona,Sinovac Biotech Ltd.,boardmember,Consejo de Administración
+Anderson Simon,persona,Sinovac Biotech Ltd.,boardmember,Consejo de Administración
+Lam Yuk,persona,Sinovac Biotech Ltd.,boardmember,Consejo de Administración
+Lee Kenneth,persona,Sinovac Biotech Ltd.,boardmember,Consejo de Administración
+Mei Meng,persona,Sinovac Biotech Ltd.,boardmember,Consejo de Administración
+Fu Shan,persona,Sinovac Biotech Ltd.,boardmember,Consejo de Administración
+Yin Weidong,persona,Sinovac Biotech Ltd.,boardmember,CEO (Director General)
+Wang Nan,persona,Sinovac Biotech Ltd.,boardmember,CFO (Director Financiero)
+Stephane Bancel,persona,Moderna,boardmember,Director del Consejo de Administración
+Noubar B. Afeyan,persona,Moderna,boardmember,Consejo de Administración
+Stephen Berenson,persona,Moderna,boardmember,Consejo de Administración
+Sandra Horning,persona,Moderna,boardmember,Consejo de Administración
+Robert S. Langer Jr.,persona,Moderna,boardmember,Consejo de Administración
+Elizabeth G. Nabel,persona,Moderna,boardmember,Consejo de Administración
+Francois Nader,persona,Moderna,boardmember,Consejo de Administración
+Paul L. Sagan,persona,Moderna,boardmember,Consejo de Administración
+Elizabeth Tallett,persona,Moderna,boardmember,Consejo de Administración
+Henri Termeer,persona,Moderna,boardmember,Consejo de Administración
+Stephen Hoge,persona,Moderna,boardmember,Presidente Ejecutivo
+Stephane Bancel,persona,Moderna,boardmember,CEO (Director General)
+David W. Meline,persona,Moderna,boardmember,CFO (Director Financiero)
+Alex Gorsky,persona,Johnson & Johnson,boardmember,Director del Consejo de Administración
+Darius Adamczyc,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Mary C. Beckerle,persona,Johnson & Johnson,boardmember,Consejo de Administración
+D. Scott Davis,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Ian E. L. Davis,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Joaquin Duato,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Jennifer A. Doudna,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Marillyn A. Hewson,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Hubert Joly,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Mark B. McClellan,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Anne M. Mulcahy,persona,Johnson & Johnson,boardmember,Consejo de Administración
+A. Eugene Washington,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Mark A. Weinberger,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Nadja Y. West,persona,Johnson & Johnson,boardmember,Consejo de Administración
+Joaquin Duato,persona,Johnson & Johnson,boardmember,CEO (Director General)
+Joseph J. Wolk,persona,Johnson & Johnson,boardmember,CFO (Director Financiero)
+José Manuel Barroso ,persona,Gavi Alliance,boardmember,Director del Consejo de Administración
+Seth Berkley ,persona,Gavi Alliance,boardmember,Consejo de Administración
+Margaret (Peggy) Hamburg,persona,Gavi Alliance,boardmember,Consejo de Administración
+Helen Rees ,persona,Gavi Alliance,boardmember,Consejo de Administración
+Teresa Ressel ,persona,Gavi Alliance,boardmember,Consejo de Administración
+Yibing Wu,persona,Gavi Alliance,boardmember,Consejo de Administración
+Afsaneh Beschloss,persona,Gavi Alliance,boardmember,Consejo de Administración
+Awa Marie Coll Seck,persona,Gavi Alliance,boardmember,Consejo de Administración
+Naguib Kheraj,persona,Gavi Alliance,boardmember,Consejo de Administración
+Anne Schuchat,persona,Gavi Alliance,boardmember,Consejo de Administración
+Violaine Mitchell (Bill & Melinda Gates Foundation),persona,Gavi Alliance,boardmember,Consejo de Administración
+Juan Pablo Uribe (World Bank),persona,Gavi Alliance,boardmember,Consejo de Administración
+Omar Abdi (UNICEF),persona,Gavi Alliance,boardmember,Consejo de Administración
+Zsuzanna Jakab (World Health Organization),persona,Gavi Alliance,boardmember,Consejo de Administración
+Kwaku Agyeman-Manu (Paises de aplicación - Ghana & Ethiopia),persona,Gavi Alliance,boardmember,Consejo de Administración
+Mansukh Mandaviya (Paises de aplicación – India & Lao PDR),persona,Gavi Alliance,boardmember,Consejo de Administración
+Faisal Sultan (Paises de aplicación -Pakistan & Somalia),persona,Gavi Alliance,boardmember,Consejo de Administración
+Anahit Avanesyan (Paises de aplicación – Armenia & Honduras),persona,Gavi Alliance,boardmember,Consejo de Administración
+Charlemagne Marie Ragnag-Néwendé Ouedraogo (Paises de aplicación – Burkina Faso & Angola),persona,Gavi Alliance,boardmember,Consejo de Administración
+Bernhard Braune (Germany/ France/ Lux/ EC/ Ireland),persona,Gavi Alliance,boardmember,Consejo de Administración
+Megan Cain (Canada/ Italy/ New Zealand/ Spain / Switzerland),persona,Gavi Alliance,boardmember,Consejo de Administración
+John Arne Røttingen (Norway/ Finland/ Netherlands/ Sweden),persona,Gavi Alliance,boardmember,Consejo de Administración
+Beth Arthy (United Kingdom/ Qatar),persona,Gavi Alliance,boardmember,Consejo de Administración
+Sarah Goulding (United States/ Australia/ Japan/ Korea (Rep. of) / Vice Chair),persona,Gavi Alliance,boardmember,Consejo de Administración
+Roger Connor (Vaccine industry - Industrialised),persona,Gavi Alliance,boardmember,Consejo de Administración
+Mahima Datla (Vaccine industry - Developing),persona,Gavi Alliance,boardmember,Consejo de Administración
+Rafael Vilasanjuan (CSOs),persona,Gavi Alliance,boardmember,Consejo de Administración
+Marta Nunes (Research & technical health institute),persona,Gavi Alliance,boardmember,Consejo de Administración
+Seth Berkley ,persona,Gavi Alliance,boardmember,CEO (Director General)

@@ -27,7 +27,7 @@ description: >-
 top_menu: true
 
 # Customize the More information menu button title
-menu_button_title: More information
+menu_button_title: Más información
 
 # URL of your contracts file or API endpoint
 contracts_url: "/assets/data/contracts.csv"
@@ -122,7 +122,7 @@ show_excerpts: true
 future: true
 
 # Set the date language in the posts and post page (en/es).
-date-language: "en"
+date-language: "es"
 
 # Set the date format in the posts and post page.
 # Other formats: "%a, %b %d, %y" | "%Y" | "%b %d, %y" | "%Y-%m-%d %H:%M"
