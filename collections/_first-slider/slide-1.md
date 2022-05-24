@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: gwaffle_3.png
+image: waffle_3.png
 ---
 
 # VACUNAS COVID-19
