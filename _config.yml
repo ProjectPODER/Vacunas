@@ -110,6 +110,8 @@ collections_dir: collections
 collections:
   first-slider:
     output: true
+  second-slider:
+    output: true
   visualization-slider:
     output: true
   home:
