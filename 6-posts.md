@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Billonarios de vacunas
+title: Billones de vacunas
 permalink: /posts/
 ---
 
