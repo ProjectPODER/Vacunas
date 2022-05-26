@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Vacuna$ en México
-permalink: /informe/
+permalink: /vacunas-en-mexico/
 ---
 
 # Captura de las vacunas en México
 
-En México se aplicaron 8 tipos de vacunas: AztraZeneca, Pfizer-Biontech, Moderna, Cansino, Janssen, Sinovac, Covishield y Sputnik. En todos estos casos predomina la falta de transparencia en el proceso de autorización, compra y acceso a las vacunas el cual se ha realizado con recursos públicos. El gobierno mexicano, como otros gobiernos en el mundo, ha aceptado las condiciones impuestas por parte de las empresas mediante contrataciones cuya información no es pública, generando las condiciones para el incremento de la corrupción, el conflicto de intereses y la falta de acceso particularmente de quienes son más vulnerables. A medida que las empresas farmacéuticas se enriquecen con recursos públicos, se socava el derecho a la salud que debería estar en el centro de una política de salud integral con perspectiva de derechos humanos. 
+En México se aplicaron 8 tipos de vacunas: AztraZeneca, Pfizer-Biontech, Moderna, Cansino, Janssen, Sinovac, Covishield y Sputnik. En todos estos casos predomina la falta de transparencia en el proceso de autorización, compra y acceso a las vacunas el cual se ha realizado con recursos públicos. El gobierno mexicano, como otros gobiernos en el mundo, ha aceptado las condiciones impuestas por parte de las empresas mediante contrataciones cuya información no es pública, generando las condiciones para el incremento de la corrupción, el conflicto de intereses y la falta de acceso particularmente de quienes son más vulnerables. A medida que las empresas farmacéuticas se enriquecen con recursos públicos, se socava el derecho a la salud que debería estar en el centro de una política de salud integral con perspectiva de derechos humanos.
 
 
 <!-- Añadir el pdf -->

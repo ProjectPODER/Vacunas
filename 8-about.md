@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sobre el proyecto
-permalink: /about/
+permalink: /sobre-el-proyecto/
 ---
 
 # Quiénes somos
@@ -16,7 +16,7 @@ Siguiendo la metodología desarrollada por PODER desde hace 12 años que consist
 
 # Visualización y micrositio
 
-El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente para el monitoreo de grandes obras públicas como en [TorreDeControl](https://poderlatam.org/project/naicm/) y de las [compras públicas del IMSS](https://saluddineroycorrupcion.quienesquien.wiki/es/salud) 
+El proyecto utiliza el sistema Tower Builder, creado por PODER, para generar sitios web con visualizaciones de datos de contrataciones y beneficiarios reales. Está pensado para seguir el dinero en grandes procesos de compra, se ha usado anteriormente para el monitoreo de grandes obras públicas como en [TorreDeControl](https://poderlatam.org/project/naicm/) y de las [compras públicas del IMSS](https://saluddineroycorrupcion.quienesquien.wiki/es/salud)
 
 
 # Créditos
