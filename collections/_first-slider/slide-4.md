@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: graphic-example1.png
+image: precio.png
 ---
 
 # SECRETO CORPORATIVO. PROTEGER A LAS EMPRESAS ANTES QUE A LAS PERSONAS
