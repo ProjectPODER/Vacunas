@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: astrazeneca.png
+image: mapa_vacunas_v2.png
 ---
 
 # La ruta de las vacunas
