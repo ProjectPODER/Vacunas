@@ -1,8 +1,8 @@
 ---
 title: First Slide
-image: mapa_vacunas_v2.png
+image: mapa_vacunas_v3.png
 ---
 
 # La ruta de las vacunas
 
-La vacuna se produce en UK, la empresa ha realizado multiples acuerdos de producción en el mundo para cumplir con la distribución de su vacuna
+aquí va un texto con analisis de la información del mapa y un link con un botón par abrir el mapa en pantalla completa
