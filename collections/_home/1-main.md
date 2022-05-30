@@ -18,7 +18,7 @@ media-left: false
 {:.main-text}
 La industria farmacéutica global y en México ha utilizado diferentes mecanismos para influenciar la toma de decisiones sobre la pandemia. Las empresas ganan a costa de la vida y la salud. Te mostramos quiénes son y como han aumentado sus ingresos las empresas que producen vacunas contra COVID-19
 
-[Industria Farmacéutica](https://projectpoder.github.io/Vacunas/slider/)
+[Industria Farmacéutica](https://projectpoder.github.io/Vacunas/industria-farmaceutica/)
 [Ruta de las vacuna$](https://projectpoder.github.io/Vacunas/slider-2/)
 [Dosis de Opacidad](https://projectpoder.github.io/Vacunas/visualization/#slide-1)
 [Billone$ de vacunas](https://projectpoder.github.io/Vacunas/posts/)
