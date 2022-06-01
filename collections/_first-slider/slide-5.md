@@ -1,6 +1,6 @@
 ---
 title: First Slide
-image: REDINVERSIONISTAS.png
+iframe: "https://onodo.org/visualizations/194586/embed/?notitle"
 ---
 
 # QUIENES GANAN CON LAS VACUNAS
