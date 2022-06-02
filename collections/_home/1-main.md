@@ -18,10 +18,10 @@ media-left: false
 {:.main-text}
 La industria farmacéutica global y en México ha utilizado diferentes mecanismos para influenciar la toma de decisiones sobre la pandemia. Las empresas ganan a costa de la vida y la salud. Te mostramos quiénes son y como han aumentado sus ingresos las empresas que producen vacunas contra COVID-19
 
-[Industria Farmacéutica](/#/Vacunas/industria-farmaceutica/industria-farmaceutica)
-[Ruta de las vacuna$](/#/Vacunas/industria-farmaceutica/ruta-de-las-vacunas)
-[Dosis de Opacidad](/#/Vacunas/industria-farmaceutica/contratos-y-beneficiarias)
-[Billone$ de vacunas](/#/Vacunas/industria-farmaceutica/vacunas/notas)
+[Industria Farmacéutica](https://poderlatam.org/el-negocio-de-las-vacunas/#/Vacunas/industria-farmaceutica/)
+[Ruta de las vacuna$](https://poderlatam.org/el-negocio-de-las-vacunas/#/Vacunas/ruta-de-las-vacunas/)
+[Dosis de Opacidad](https://poderlatam.org/el-negocio-de-las-vacunas/#/Vacunas/contratos-y-beneficiarias/)
+[Billone$ de vacunas](https://poderlatam.org/el-negocio-de-las-vacunas/#/Vacunas/notas/)
 
 
 
