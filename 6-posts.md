@@ -1,7 +1,4 @@
 ---
 layout: posts
-title: Billones de vacunas
-permalink: /notas/
+permalink: /posts/
 ---
-
-# This is the title posts page
