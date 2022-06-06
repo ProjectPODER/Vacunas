@@ -76,26 +76,42 @@ $(document).ready(function () {
 });
 
 
+// function updateParentUrl() {
+//     window.addEventListener("message", (event) => {
+//         // console.log("tb",event);
+//         if (event.data.url) {
+//             window.location.pathname=event.data.url.substr(1);
+//         }
+//     });
+
+//     $("section a").attr("target","_parent");
+
+//     let currentHeight = $("body").height();
+
+//     if (currentHeight < 700) {
+//         setTimeout(() =>{
+//             window.parent.postMessage({ height: $("body").height() + 100 },"https://poderlatam.org");
+//         },2000)
+//     }
+//     window.parent.postMessage({ url: window.location.pathname, height: currentHeight },"*");
+// }
+
+// Fix height in Poder Latam website
 function updateParentUrl() {
-    window.addEventListener("message", (event) => {
-        // console.log("tb",event);
-        if (event.data.url) {
-            window.location.pathname=event.data.url.substr(1);
-        }
-    });
+    //Default minimum height
+    let currentHeight = 800;
 
-    $("section a").attr("target","_parent");
-
-    let currentHeight = $("body").height();
-
-    if (currentHeight < 700) {
-        setTimeout(() =>{
-            window.parent.postMessage({ height: $("body").height() + 100 },"https://poderlatam.org");
-        },2000)
+    //Don't calculate height on home and sliders
+    if ($(".home-content > div, .section.active").length == 0) {
+        currentHeight = $("html").height();
     }
-    window.parent.postMessage({ url: window.location.pathname, height: currentHeight },"https://poderlatam.org");
+
+    // console.log("currentHeight", currentHeight);
+
+    window.parent.postMessage({ url: window.location.pathname, height: currentHeight }, "*");
 }
 
+// Home side menu
 $(document)
     .ready(function () {
 
