@@ -61,7 +61,21 @@ $(document).ready(function () {
             }
         });
 
+
+        //Listen for incoming messages and reidrect
+        window.addEventListener("message", (event) => {
+            // console.log("tb",event);
+            if (event.data.url) {
+                window.location.pathname = event.data.url.substr(1);
+            }
+        });
+
+
         updateParentUrl();
+
+        setTimeout(() => {
+            updateParentUrl()
+        }, 2000)
     }
 
     // when the page loads

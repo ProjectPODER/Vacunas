@@ -4,7 +4,7 @@
 <section
   id="{{title}}"
   class="py-5
-  {% if home-section.main-section == true %} home-content text-center{% endif %}"
+  {% if home-section.main-section == true %} home-content text-center {% if site.branded-header == "PODER" -%}home-mg-iframe{%- endif -%} {% endif %}"
   style="
   {% if home-section.background-color %}background-color: {{home-section.background-color}};{% endif %}
   {% if home-section.text-color %}color: {{home-section.text-color}};{% endif %}">
