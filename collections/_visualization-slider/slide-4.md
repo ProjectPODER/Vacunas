@@ -1,6 +1,6 @@
 ---
 title: Slide 4
-image: visualization-example.png
+image: visualizacion4.png
 ---
 
 # CORRUPCIÓN E INMUNIDAD
