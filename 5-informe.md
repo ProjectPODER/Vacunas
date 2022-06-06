@@ -15,5 +15,5 @@ En México se aplicaron 8 tipos de vacunas: AztraZeneca, Pfizer-BioNTech, Modern
 </div>
 
 <div class="text-center mb-5">
-  <a class="btn btn-primary" href="" target="_blank" download>Descarga el informe</a>
+  <a class="btn btn-primary" href="https://projectpoder.github.io/Vacunas/assets/docs/elnegociodelasvacunas.pdf" target="_blank" download>Descarga el informe</a>
 </div>
